@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **node.Js, express.Js, OpenCV, LLMs**
 
-- 📫 How to reach me [gmail](ikarmakar26@gmail.com)
+- 📫 How to reach me [Gmail](ikarmakar26@gmail.com)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bC9QYmlkVPLjSVuug8e5uSmHtT4gRC0S/view?usp=drivesdk)
 
