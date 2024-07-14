@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishaan-kkr&label=Profile%20views&color=0e75b6&style=flat" alt="ishaan-kkr" /> </p>
 
-<p align="left"> <a href="https://twitter.com/karmakarsenate" target="blank"><img src="https://img.shields.io/twitter/follow/karmakarsenate?logo=twitter&style=for-the-badge" alt="karmakarsenate" /></a> </p>
-
 - 🔭 I’m currently working on [Jobify](https://github.com/ISHAAN-KKR/Jobify)
 
 - 🌱 I’m currently learning **Finance**
@@ -19,7 +17,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bC9QYmlkVPLjSVuug8e5uSmHtT4gRC0S/view?usp=drivesdk)
 
-- ⚡ Fun fact **I think I'm Funny😂**
+<p align="left"> <a href="https://twitter.com/karmakarsenate" target="blank"><img src="https://img.shields.io/twitter/follow/karmakarsenate?logo=twitter&style=for-the-badge" alt="karmakarsenate" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
