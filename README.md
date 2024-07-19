@@ -1,6 +1,9 @@
+![banner](https://github.com/user-attachments/assets/91fb358e-83b3-4f80-a668-987e6b8d9bda)
 <h1 align="center">Hi 👋, I'm Ishaan Karmakar</h1>
 <h3 align="center">A passionate Backend And Machine Learning Developer from Kolkata, India</h3>
-
+<div style="display:flex; align-items:center">
+  <img align="right" alt="Coding" width="350" src='https://github.com/user-attachments/assets/46c5c1da-56c1-47cf-9af5-3bd672dc6e29'/>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishaan-kkr&label=Profile%20views&color=0e75b6&style=flat" alt="ishaan-kkr" /> </p>
 
 - 🔭 I’m currently working on [Jobify](https://github.com/ISHAAN-KKR/Jobify)
